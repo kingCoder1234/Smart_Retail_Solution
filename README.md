@@ -1,8 +1,8 @@
-# MallFeatures
+# Smart Retail Solution
 
 ### C++ Implementation
 
-This project is a Mall Management System implemented in C++. It allows users to interact with the system through a console-based interface. Users can browse and select items, add them to a shopping cart, view the total amount, and generate a detailed bill.
+This project is a Smart Retail Solution implemented in C++. It allows users to interact with the system through a console-based interface. Users can browse and select items, add them to a shopping cart, view the total amount, and generate a detailed bill.
 
 #### Features
 
@@ -28,7 +28,7 @@ This project is a Mall Management System implemented in C++. It allows users to 
 
 ### GUI Implementation (Python)
 
-This part of the project adds a graphical user interface (GUI) to the Mall Management System implemented in Python using the Tkinter library.
+This part of the project adds a graphical user interface (GUI) to the Smart Retail Solution implemented in Python using the Tkinter library.
 
 #### Features
 
